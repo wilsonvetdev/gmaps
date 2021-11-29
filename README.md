@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+1. Create your own Google Maps API Key
+2. Create your own Travel Advisor API Key
+3. Create .env file in the root directory of the project
+4. Create env variables to house the API Keys
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
