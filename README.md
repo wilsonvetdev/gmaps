@@ -1,6 +1,6 @@
 # Getting Started with this repo
 1. Create your own Google Maps API Key
-2. Create your own Travel Advisor API Key
+2. Create your own Travel Advisor API Key - https://rapidapi.com/apidojo/api/travel-advisor
 3. Create .env file in the root directory of the project
 4. Create env variables to house the API Keys
 
