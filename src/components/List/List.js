@@ -41,7 +41,7 @@ const List = ({ places, childClicked, isLoading, type, setType, rating, setRatin
           <FormControl className={classes.formControl}>
             <InputLabel id="rating">Rating</InputLabel>
             <Select id="rating" value={rating} onChange={(e) => setRating(e.target.value)}>
-              <MenuItem value="">All</MenuItem>
+              <MenuItem value="all">All</MenuItem>
               <MenuItem value="3">Above 3.0</MenuItem>
               <MenuItem value="4">Above 4.0</MenuItem>
               <MenuItem value="4.5">Above 4.5</MenuItem>
